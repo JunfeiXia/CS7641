@@ -1,1 +1,11 @@
-1
+Everything is uploaded to github.
+Url: https://github.com/JunfeiXia/CS7641/tree/main/HW2-Randomized%20Optimization
+or
+Url: https://github.gatech.edu/jxia83/CS7641-Machine-Learning/tree/main/HW2
+
+Python: Python environment 3.9
+used packages: sklearn, matplotlib,pandas, numpy, seaborn, time, mlrose-hiive
+Algrithms are written as function.
+
+To run the code and produce the figures, please download all the .py file and the .cvs file. then run the 'run.py' file. 
+
